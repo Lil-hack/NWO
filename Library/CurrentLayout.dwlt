@@ -62,8 +62,8 @@ MonoBehaviour:
     y: 0
     width: 698
     height: 527
-  m_MinSize: {x: 200, y: 222}
-  m_MaxSize: {x: 4000, y: 4022}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 22}
   m_Panes:
   - {fileID: 22}
@@ -112,10 +112,10 @@ MonoBehaviour:
     y: 30
     width: 1280
     height: 868
-  m_MinSize: {x: 683, y: 342}
-  m_MaxSize: {x: 12008, y: 8042}
+  m_MinSize: {x: 681, y: 342}
+  m_MaxSize: {x: 12006, y: 8042}
   vertical: 0
-  controlID: 109
+  controlID: 49
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -134,8 +134,8 @@ MonoBehaviour:
     y: 0
     width: 343
     height: 868
-  m_MinSize: {x: 277, y: 71}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -160,8 +160,8 @@ MonoBehaviour:
     y: 0
     width: 235
     height: 527
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 20}
   m_Panes:
   - {fileID: 20}
@@ -280,7 +280,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 342}
   m_MaxSize: {x: 8006, y: 8042}
   vertical: 1
-  controlID: 23
+  controlID: 50
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -304,7 +304,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 24
+  controlID: 51
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -464,12 +464,12 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 76
-    y: 622
+    x: 75
+    y: 680
     width: 935
     height: 320
   m_SearchFilter:
-    m_NameFilter: fireb
+    m_NameFilter: 
     m_ClassNames: []
     m_AssetLabels: []
     m_AssetBundleNames: []
@@ -485,13 +485,13 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/MyWork
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: /Users/zikboy/Desktop/Unity3D 1
+  m_LastProjectPath: /Users/zikboy/Documents/GitHub/NWO
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 705}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: 0000000080250000d6310000b06a0000ec9d0000e0a200004cd00000ccea000008ec000032fb0000141d0100
+    scrollPos: {x: 0, y: 149}
+    m_SelectedIDs: 86d70000
+    m_LastClickedID: 55174
+    m_ExpandedIDs: 0000000016260000ec320000ce6d0000cea20000faa70000b4db00004ef40000e0030100342f010000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -519,7 +519,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000080250000d6310000b06a0000ec9d0000e0a200004cd00000ccea000008ec000032fb0000141d0100
+    m_ExpandedIDs: 0000000016260000ec320000ce6d0000cea20000faa7000086d70000ecf200004ef40000e00301005a270100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -544,8 +544,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 6281f5ff
-    m_LastClickedInstanceID: -687774
+    m_SelectedInstanceIDs: b6d10000
+    m_LastClickedInstanceID: 53686
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000a4fb0000b63c0000a6340000
     m_RenameOverlay:
@@ -571,9 +571,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 150.18555}
     m_GridSize: 64
-  m_DirectoriesAreaWidth: 115
+  m_DirectoriesAreaWidth: 217
 --- !u!114 &19
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -635,23 +635,23 @@ MonoBehaviour:
     height: 506
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 34290100
-    m_LastClickedID: 76084
+    m_SelectedIDs: b6d10000
+    m_LastClickedID: 0
     m_ExpandedIDs: e0fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: DataRune
-      m_OriginalName: DataRune
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 75850
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 7}
     m_SearchString: 
@@ -721,9 +721,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.2359536, y: -0.048347574, z: 0.011755194, w: -0.97048974}
   m_Size:
-    m_Target: 10.124709
+    m_Target: 16.311066
     speed: 2
-    m_Value: 10.124709
+    m_Value: 16.311066
   m_Ortho:
     m_Target: 0
     speed: 2
